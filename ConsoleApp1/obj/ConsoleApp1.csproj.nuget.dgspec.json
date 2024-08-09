@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bookk\\Desktop\\csharp\\HelloWorld\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "c:\\Users\\bookk\\Desktop\\csharp\\HelloWorld\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bookk\\Desktop\\csharp\\HelloWorld\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "c:\\Users\\bookk\\Desktop\\csharp\\HelloWorld\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bookk\\Desktop\\csharp\\HelloWorld\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "c:\\Users\\bookk\\Desktop\\csharp\\HelloWorld\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\bookk\\Desktop\\csharp\\HelloWorld\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "c:\\Users\\bookk\\Desktop\\csharp\\HelloWorld\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\bookk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bookk\\Desktop\\csharp\\HelloWorld\\ConsoleApp1\\obj\\",
+        "outputPath": "c:\\Users\\bookk\\Desktop\\csharp\\HelloWorld\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bookk\\AppData\\Roaming\\NuGet\\NuGet.Config"
